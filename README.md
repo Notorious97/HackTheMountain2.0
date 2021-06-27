@@ -1,7 +1,6 @@
 # EDLOCITY
-# FOR LIVE DEMO:- (https://pink-dog-6.loca.lt)
-# FOR PRESENTATIO:- (https://drive.google.com/file/d/1pOS7346Ipvxgi4kIHDtQl7iDolp6nZ_f/view?usp=sharing)
-# FOR VIDEO:- (https://vimeo.com/547066559)
+# FOR PRESENTATIO:- 
+# FOR VIDEO:- 
 ## Abstract
 The impact of pandemic COVID-19 is observed in every sector around the world. The education sectors of India as well as world are badly affected by this. It has enforced the world wide lock down creating very bad effect on the students’ life. Around 32 crore learners stopped to move schools/colleges and all educational activities halted in India. The outbreak of COVID-19 has taught us that change is inevitable. It has worked as a catalyst for the educational institutions to grow and opt for platforms with technologies, which have not been used before. The education sector has been fighting to survive the crises with a different approach and digitising the challenges to wash away the threat of the pandemic.
 
@@ -77,9 +76,9 @@ plagirised or not .
 # Common setup (FOR RUNNING)
 
 1.Clone the repo and install the dependencies.
-git clone https://github.com/vivekabhinav/EDLOCITY
+git clone https://github.com/Notorious97/HackTheMountain2.0
 
-cd EDULOCITY
+cd HackTheMountain2.0
 
 2.install node modules
 
