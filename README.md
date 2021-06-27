@@ -1,6 +1,6 @@
 # EDLOCITY
 # FOR PRESENTATION:- https://www.canva.com/design/DAEigfe1YBo/OHqiUoxlRq8pUIWO6vOt8A/view?utm_content=DAEigfe1YBo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-# FOR VIDEO:- 
+# FOR VIDEO:-  https://www.youtube.com/watch?v=HVeuh8-7DKE
 ## Abstract
 The impact of pandemic COVID-19 is observed in every sector around the world. The education sectors of India as well as world are badly affected by this. It has enforced the world wide lock down creating very bad effect on the students’ life. Around 32 crore learners stopped to move schools/colleges and all educational activities halted in India. The outbreak of COVID-19 has taught us that change is inevitable. It has worked as a catalyst for the educational institutions to grow and opt for platforms with technologies, which have not been used before. The education sector has been fighting to survive the crises with a different approach and digitising the challenges to wash away the threat of the pandemic.
 
